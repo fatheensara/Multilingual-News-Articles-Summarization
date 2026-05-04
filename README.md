@@ -56,7 +56,7 @@ Summary quality is assessed using two primary quantitative measures:
 *   Anis Nazira Binti Abd Ghani
 *   Fatheen Sara Sofiah binti Romy Norfidzy
 
-### ***AUTHOR***
+### ***📝 AUTHOR***
 ***
 ***Fatheen Sara Sofiah binti Romy Norfidzy***
 
