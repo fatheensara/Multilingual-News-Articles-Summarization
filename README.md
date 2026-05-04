@@ -44,10 +44,13 @@ Summary quality is assessed using two primary quantitative measures:
 *   **Translation & Scraping**: `deep-translator`, `langdetect`, `requests`, `beautifulsoup4`.
 *   **Metrics**: `rouge-score`, `bert-score`.
 
-### 7.0 AUTHORS & CREDITS
+### 7.0 TEAM
 *   Faheyra Ezzah binti Musa
 *   Azwa binti Mat Yasin
 *   Anis Nazira Binti Abd Ghani
 *   Fatheen Sara Sofiah binti Romy Norfidzy
 
-This project is for educational purposes.
+### AUTHOR
+***Fatheen Sara Sofiah binti Romy Norfidzy***
+
+***This project is for educational purposes.***
